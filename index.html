@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <title>Magnetic geodesics on S²</title>
+
+  <script
+    crossorigin
+    src="https://unpkg.com/wolfram-notebook-embedder@0.3/dist/wolfram-notebook-embedder.min.js">
+  </script>
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      min-height: 100%;
+      background: #f5f5f5;
+    }
+
+    #wolfram-app {
+      width: calc(100vw - 20px);
+      max-width: 1800px;
+      margin: 0 auto;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="wolfram-app"></div>
+
+  <script>
+    WolframNotebookEmbedder.embed(
+      "https://www.wolframcloud.com/obj/adriaolivessalmeron/magnetic_geodesics_S2",
+      document.getElementById("wolfram-app"),
+      {
+        width: null,
+        maxHeight: Infinity,
+        allowInteract: true,
+        showBorder: false
+      }
+    );
+  </script>
+</body>
+</html>
