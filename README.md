@@ -1,5 +1,7 @@
 # Magnetic geodesics projected onto the two-sphere
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21314870.svg)](https://doi.org/10.5281/zenodo.21314870)
+
 Interactive analytic and numerical study of magnetic geodesics projected onto $S^2$.
 
 This repository accompanies my Master's thesis and contains a Mathematica notebook that:
