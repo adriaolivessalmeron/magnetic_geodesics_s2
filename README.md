@@ -17,7 +17,9 @@ The application can be used directly in a web browser, without installing Mathem
 
 [Open the interactive Wolfram Cloud application](https://www.wolframcloud.com/obj/adriaolivessalmeron/magnetic_geodesics_S2)
 
-A wider embedded version of the application will be available through the GitHub Pages site associated with this repository.
+A wider embedded version of the application is available through the GitHub Pages site:
+
+[Open the embedded interactive application](https://adriaolivessalmeron.github.io/magnetic_geodesics_s2/)
 
 The browser version may respond slowly because the computations are performed remotely through Wolfram Cloud. For smoother interaction, it is recommended to download the notebook and run it locally in Mathematica.
 
