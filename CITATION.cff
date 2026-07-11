@@ -6,6 +6,8 @@ authors:
   - family-names: "Olives-Salmerón"
     given-names: "Adrià"
 version: "1.0.0"
+doi: "10.5281/zenodo.21314870"
+date-released: "2026-07-11"
 repository-code: "https://github.com/adriaolivessalmeron/magnetic_geodesics_s2"
 url: "https://adriaolivessalmeron.github.io/magnetic_geodesics_s2/"
 license: MIT
