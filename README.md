@@ -4,10 +4,7 @@ Interactive analytic and numerical study of magnetic geodesics projected onto $S
 
 This repository accompanies my Master's thesis and contains a Mathematica notebook that:
 
-- classifies the physically admissible analytic branches of the reduced equation
-  \[
-    \dot{x}^{2} = P(x), \qquad x:=\cos(\theta), \qquad x\in[-1,1], \qquad P(x) \geq 0,
-  \]
+- classifies the physically admissible analytic branches of the reduced equation $\dot{x}^{2} = P(x)$, where $x:=\cos(\theta)$, $x\in[-1,1]$, $P(x) \geq 0$,
 - compares the analytic solutions with a direct numerical integration using `NDSolve`,
 - represents $x(\tau)$, $\theta(\tau)$ and $\phi(\tau)$,
 - displays the relevant real roots of $P(x)$,
