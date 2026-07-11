@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Magnetic geodesics projected onto the two-sphere"
+authors:
+  - family-names: "Olives-Salmerón"
+    given-names: "Adrià"
+version: "1.0.0"
+repository-code: "https://github.com/adriaolivessalmeron/magnetic_geodesics_s2"
+url: "https://adriaolivessalmeron.github.io/magnetic_geodesics_s2/"
+license: MIT
