@@ -43,4 +43,8 @@ Running or modifying the source notebook locally requires Wolfram Mathematica.
 
 ## Citation
 
-A DOI-based citation will be added when version `v1.0.0` is archived in Zenodo.
+If you use this software, please cite:
+
+Adrià Olives-Salmerón (2026). *Magnetic geodesics projected onto the two-sphere* (Version 1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21314870](https://doi.org/10.5281/zenodo.21314870)
+
+Citation metadata is also available through the `CITATION.cff` file and the **Cite this repository** option on GitHub.
