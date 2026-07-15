@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
-title: "Magnetic geodesics projected onto the two-sphere"
+title: "Magnetic geodesics in an Einstein--Maxwell Brinkmann spacetime, projected onto the two-sphere"
 authors:
   - family-names: "Olives-Salmerón"
     given-names: "Adrià"
