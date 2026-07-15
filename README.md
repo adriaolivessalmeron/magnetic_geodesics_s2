@@ -1,8 +1,8 @@
-# Magnetic geodesics projected onto the two-sphere
+# Magnetic geodesics in an Einstein--Maxwell Brinkmann spacetime, projected onto the two-sphere
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21314870.svg)](https://doi.org/10.5281/zenodo.21314870)
 
-Interactive analytic and numerical study of magnetic geodesics projected onto $S^2$.
+Interactive analytic and numerical study of magnetic geodesics in an Einstein--Maxwell Brinkmann spacetime, projected onto $S^2$.
 
 This repository accompanies my Master's thesis and contains a Mathematica notebook that:
 
@@ -47,6 +47,6 @@ Running or modifying the source notebook locally requires Wolfram Mathematica.
 
 If you use this software, please cite:
 
-Adrià Olives-Salmerón (2026). *Magnetic geodesics projected onto the two-sphere* (Version 1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21314870](https://doi.org/10.5281/zenodo.21314870)
+Adrià Olives-Salmerón (2026). *Magnetic geodesics in an Einstein--Maxwell Brinkmann spacetime, projected onto the two-sphere* (Version 1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21314870](https://doi.org/10.5281/zenodo.21314870)
 
 Citation metadata is also available through the `CITATION.cff` file and the **Cite this repository** option on GitHub.
